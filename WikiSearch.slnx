@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WikiSearch.Domain/WikiSearch.Domain.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/WikiSearch.UnitTests/WikiSearch.UnitTests.csproj" />
+  </Folder>
+</Solution>
